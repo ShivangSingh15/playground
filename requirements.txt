@@ -1,0 +1,10 @@
+openai
+wavio
+sounddevice
+scipy
+python-dotenv
+streamlit
+streamlit_chat
+flask
+os
+json
